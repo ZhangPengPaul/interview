@@ -2,3 +2,5 @@
 
 require:
     - play
+    - play -> morphia 1.2.12
+    - com.google.guava -> guava 14.0.1
