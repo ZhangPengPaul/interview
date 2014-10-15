@@ -4,3 +4,9 @@
 *.iws
 
 *.ipr
+
+*.jar
+
+interview/modules/morphia-1.2.12
+
+interview/tmp/lib-src/guava-14.0.1.jar.src
